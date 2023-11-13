@@ -49,7 +49,7 @@ return (printed_chars);
 }
 
 /**
- * print_buffer - Prints the contents of the buffer if it exists
+ * print_buffer - Prints the content of the buffer if it exists
  * @buffer: Array of chars
  * @buff_ind: Index at which to add the next char, represents the length.
  */
